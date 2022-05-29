@@ -1,12 +1,12 @@
 {
 "Bug_id":1,
-"Title":"The "pay" button is missing",
+"Title":"The 'pay' button is missing",
 "Severity":"major",
 "Priority":"high",
 "Precondition":["1.Payment page.","2.Platform and device don't matter."],
 "Step to reproduce":["1.Log in","2.Add item to cart.","3.Click the pay button."],
-"AR":"The "pay" button is missing.",
-"ER":"You can click on "pay" button",
+"AR":"The 'pay' button is missing.",
+"ER":"You can click on 'pay' button",
 "Attachments":"https://drive.google.com/file/"
 }
 
