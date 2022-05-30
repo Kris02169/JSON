@@ -32,9 +32,7 @@ cat >> new.json
 ctrl+c
 
  11.Отправить изменения на внешний репозиторий.
-git add new.json
-git commit -m "Update"
-git push
+git add new.json; git commit -m "Update"; git push
 
  12.Создать файл preferences.json
 cat > preferences.json
@@ -83,9 +81,7 @@ cat >> sklls.json
 ctrl+c
 
  15. Отправить сразу 2 файла на внешний репозиторий.
-git add . 
-git commit -m "New files"
-git push
+git add .; git commit -m "New files"; git push
 
  16. На веб интерфейсе создать файл bug_report.json.
 #Add file -Create new file - bug_report.json
